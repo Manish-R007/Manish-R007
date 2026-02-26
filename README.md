@@ -22,9 +22,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manish-r007&show_icons=true&locale=en&layout=compact" alt="manish-r007" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manish-r007&show_icons=true&locale=en" alt="manish-r007" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en" alt="manish-r007" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manish-r007&" alt="manish-r007" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish-R007&" alt="manish-r007" /></p>
 
 
 
