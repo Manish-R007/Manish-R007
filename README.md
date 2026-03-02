@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&width=800&height=60&lines=👋+Hey%2C+I'm+Manish+R!;🚀+MERN+Stack+%26+Next.js+Developer;☕+DSA+Grinder+in+Java;🌟+GSSoC+%26+OSCG+2025-26+Contributor;💡+Code.+Build.+Deploy.+Repeat." alt="Typing SVG" />
+<img src="ChatGPT Image Mar 2, 2026, 11_14_34 PM.png" alt="Typing SVG" />
 
 <br/>
 
@@ -30,7 +30,7 @@
 ## 🧑‍💻 About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="280"/>
-```javascript
+javascript
 
 const manish = {
 
