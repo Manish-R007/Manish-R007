@@ -30,7 +30,9 @@
 ## 🧑‍💻 About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="280"/>
+
 javascript
+
 
 const manish = {
 
@@ -55,8 +57,9 @@ const manish = {
   contact     : "developermanishr@gmail.com",
 
   funFact     : "I debug with console.log 😎"
+  
 };
-```
+
 
 <br clear="right"/>
 
