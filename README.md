@@ -6,10 +6,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Manish%20R&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20DSA%20in%20Java&descAlignY=58&descAlign=50&descSize=20" width="100%"/>
 
 <!-- CODING GIF BANNER -->
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/>
+<!-- <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/> -->
 
 <!-- TYPING ANIMATION -->
-<img src="ChatGPT Image Mar 2, 2026, 11_14_34 PM.png" alt="Typing SVG" />
+<img src="image.png" alt="Typing SVG" />
 
 <br/>
 
